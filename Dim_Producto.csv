@@ -1,0 +1,52 @@
+﻿CodProducto;NombrePlato;CategoriaPlato;CategoriaGeneral
+PROD-1000;1 Pollo a la Brasa Clasico;Pollos y Brasas;Platos de Fondo
+PROD-1001;1 Pollo a la Brasa con Papas Fritas y Ensalada;Pollos y Brasas;Platos de Fondo
+PROD-1002;1/2 Pollo a la Brasa Clasico;Pollos y Brasas;Platos de Fondo
+PROD-1003;1/2 Pollo con Papas Nativas;Pollos y Brasas;Platos de Fondo
+PROD-1004;1/4 Pollo a la Brasa Parte Pechuga;Pollos y Brasas;Platos de Fondo
+PROD-1005;1/4 Pollo a la Brasa Parte Pierna;Pollos y Brasas;Platos de Fondo
+PROD-1006;Combo Familiar Don Belisario;Combos y Brasas;Platos de Fondo
+PROD-1007;Combo Parrillero Completo;Parrillas y Cortes;Platos de Fondo
+PROD-1008;Bife Angosto a la Parrilla 300g;Parrillas y Cortes;Platos de Fondo
+PROD-1009;Lomo Fino Parrillero 250g;Parrillas y Cortes;Platos de Fondo
+PROD-1010;Chuleta de Cerdo a las Brasas;Parrillas y Cortes;Platos de Fondo
+PROD-1011;Anticuchos de Corazon x 3 Palos;Piqueos y Entradas;Entradas
+PROD-1012;Tequenos Criollos con Pollo a la Brasa;Piqueos y Entradas;Entradas
+PROD-1013;Tequenos de Queso y Guacamole;Piqueos y Entradas;Entradas
+PROD-1014;Alitas Picantes Crocantes x 8;Piqueos y Entradas;Entradas
+PROD-1015;Alitas BBQ Ahumadas x 8;Piqueos y Entradas;Entradas
+PROD-1016;Chicharron de Pollo Don Belisario;Piqueos y Entradas;Entradas
+PROD-1017;Porcion de Papas Fritas Rusticas;Guarniciones;Guarniciones
+PROD-1018;Porcion de Papas Nativas Fritas;Guarniciones;Guarniciones
+PROD-1019;Camote Frito Glaseado;Guarniciones;Guarniciones
+PROD-1020;Arroz con Choclo y Queso;Guarniciones;Guarniciones
+PROD-1021;Ensalada Clasica Don Belisario;Ensaladas;Guarniciones
+PROD-1022;Ensalada Del Bosque con Palta y Esparragos;Ensaladas;Guarniciones
+PROD-1023;Ensalada Mixta Fresca;Ensaladas;Guarniciones
+PROD-1024;Ensalada Cesar con Pollo Ahumado;Ensaladas;Platos de Fondo
+PROD-1025;Choclo Desgranado con Mantequilla;Guarniciones;Guarniciones
+PROD-1026;Jarra de Chicha Morada Casera 1L;Bebidas y Refrescos;Bebidas
+PROD-1027;Jarra de Limonada Frozen 1L;Bebidas y Refrescos;Bebidas
+PROD-1028;Jarra de Maracuya Frozen 1L;Bebidas y Refrescos;Bebidas
+PROD-1029;Gaseosa Inca Kola 1.5L No Retornable;Bebidas y Refrescos;Bebidas
+PROD-1030;Gaseosa Coca Cola 1.5L No Retornable;Bebidas y Refrescos;Bebidas
+PROD-1031;Gaseosa Inca Kola Personal 500ml;Bebidas y Refrescos;Bebidas
+PROD-1032;Gaseosa Coca Cola Personal 500ml;Bebidas y Refrescos;Bebidas
+PROD-1033;Cerveza Cusquena Trigo 310ml;Bebidas Alcoholicas;Bebidas
+PROD-1034;Cerveza Cusquena Dorada 310ml;Bebidas Alcoholicas;Bebidas
+PROD-1035;Pisco Sour Catedral Tradicional;Cocteleria;Bebidas
+PROD-1036;Chilcano de Pisco Clasico;Cocteleria;Bebidas
+PROD-1037;Chilcano de Maracuya;Cocteleria;Bebidas
+PROD-1038;Crema Volteada Don Belisario;Postres;Postres
+PROD-1039;Suspiro a la Limena Tradicional;Postres;Postres
+PROD-1040;Tarta de Manzana Caliente con Helado;Postres;Postres
+PROD-1041;Brownie con Helado de Vainilla;Postres;Postres
+PROD-1042;Porcion de Salsas Especiales (Aji / Huacatay / Chimichurri);Complementos;Salsas
+PROD-1043;Salsa Tartara de la Casa Frasco 200g;Complementos;Salsas
+PROD-1044;Crema de Rocoto Ahumado;Complementos;Salsas
+PROD-1045;Pan al Ajo Especial con Queso Fundido;Entradas;Entradas
+PROD-1046;Yuquitas Fritas Rellenas de Queso;Entradas;Entradas
+PROD-1047;Caldo de Gallina Criollo Personal;Sopas;Platos de Fondo
+PROD-1048;Aguadito Criollo Don Belisario;Sopas;Platos de Fondo
+PROD-1049;Combo Parrilla Mixta 2 Personas;Parrillas y Cortes;Platos de Fondo
+PROD-1050;Super Banquete Familiar Don Belisario (2 Pollos + Guarniciones);Combos y Brasas;Platos de Fondo
